@@ -1,0 +1,64 @@
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, explode, lower, split, count, date_format
+from pyspark.ml.feature import RegexTokenizer, StopWordsRemover
+
+# Crear sesión de Spark
+spark = SparkSession.builder.appName("NewsAnalysis").getOrCreate()
+
+# Cargar archivos JSON
+news_df = spark.read.json("/ruta/a/archivos/json/*.json")
+
+# Extraer palabras clave
+regex_tokenizer = RegexTokenizer(inputCol="summary", outputCol="words", pattern="\\W")
+words_df = regex_tokenizer.transform(news_df)
+
+stopwords_remover = StopWordsRemover(inputCol="words", outputCol="filtered_words")
+filtered_df = stopwords_remover.transform(words_df)
+
+# Explode para análisis de frecuencia de palabras
+keywords_df = filtered_df.select(explode(col("filtered_words")).alias("keyword"))
+keywords_count = keywords_df.groupBy("keyword").count().orderBy(col("count").desc())
+
+# Identificación de entidades (ejemplo con autores y sitios de noticias)
+entities_df = news_df.select("id", "title", "news_site", explode(col("authors.name")).alias("author"))
+
+# Clasificación por tema usando palabras clave definidas
+topics = {
+    "Mars": ["mars", "perseverance", "rover"],
+    "SpaceX": ["spacex", "elon musk", "falcon", "starship"],
+    "NASA": ["nasa", "hubble", "artemis", "moon", "apollo"],
+    "Astronomy": ["black hole", "galaxy", "telescope", "exoplanet"]
+}
+
+def classify_article(title):
+    title_lower = title.lower()
+    for topic, keywords in topics.items():
+        if any(keyword in title_lower for keyword in keywords):
+            return topic
+    return "Other"
+
+from pyspark.sql.functions import udf
+from pyspark.sql.types import StringType
+
+classify_udf = udf(classify_article, StringType())
+news_df = news_df.withColumn("category", classify_udf(col("title")))
+
+# Análisis de tendencias
+trends_df = news_df.groupBy(date_format(col("published_at"), "yyyy-MM").alias("month"), "category").count()
+
+# Análisis de fuentes más activas
+sources_df = news_df.groupBy("news_site").count().orderBy(col("count").desc())
+
+# Optimizaciones
+news_df = news_df.repartition("category")  # Particionamiento por categoría
+news_df.cache()  # Caching para acelerar consultas repetitivas
+
+# Guardar resultados
+news_df.write.mode("overwrite").parquet("/ruta/a/salida/news_data")
+trends_df.write.mode("overwrite").parquet("/ruta/a/salida/trends")
+sources_df.write.mode("overwrite").parquet("/ruta/a/salida/sources")
+
+# Mostrar resultados
+news_df.show(5)
+trends_df.show(5)
+sources_df.show(5)
