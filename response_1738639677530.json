@@ -1,0 +1,2259 @@
+{
+  "count": 25565,
+  "next": "https://api.spaceflightnewsapi.net/v4/articles/?limit=100&offset=100",
+  "previous": null,
+  "results": [
+    {
+      "id": 28971,
+      "title": "Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity",
+      "authors": [
+        {
+          "name": "Aaron McCrea",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasaspaceflight.com/2025/02/launch-roundup-020325/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/02/New-Shepard-NS-29-launch-pad.jpeg",
+      "news_site": "NASASpaceflight",
+      "summary": "This week’s launch manifest is quite diverse, featuring the launches of four different rockets worldwide.…\nThe post Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity appeared first on NASASpaceFlight.com.",
+      "published_at": "2025-02-03T23:41:02Z",
+      "updated_at": "2025-02-04T00:10:12.965595Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28969,
+      "title": "Ontario tables Starlink contract threat as US delays Canada tariffs",
+      "authors": [
+        {
+          "name": "Jason Rainbow",
+          "socials": {
+            "x": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://spacenews.com/ontario-tables-starlink-contract-threat-as-us-delays-canada-tariffs/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/Canada-tariffs-scaled.jpg?fit=1024%2C565&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThe leaders of Canada’s most populous province are holding off on a threat to scrap a $68 million Starlink contract for remote satellite connectivity this summer, after U.S. President Donald Trump delayed planned tariffs on the country by at least 30 days.\nThe post Ontario tables Starlink contract threat as US delays Canada tariffs appeared first on SpaceNews.",
+      "published_at": "2025-02-03T23:36:25Z",
+      "updated_at": "2025-02-03T23:40:13.053487Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28970,
+      "title": "Boeing’s Starliner Losses Reach $2 Billion",
+      "authors": [
+        {
+          "name": "Marcia Smith",
+          "socials": null
+        }
+      ],
+      "url": "https://spacepolicyonline.com/news/boeings-starliner-losses-reach-2-billion/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2024/07/Starliner-docked-July-3-2024-NASA-300x200.jpg",
+      "news_site": "SpacePolicyOnline.com",
+      "summary": "In a filing with the Securities and Exchange Commission today, Boeing said it experienced a total of $523 million in losses in the Starliner Commercial Crew Program in 2024.  That […]",
+      "published_at": "2025-02-03T23:36:10Z",
+      "updated_at": "2025-02-03T23:40:15.196945Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28968,
+      "title": "As NASA flies into turbulence, the agency could use a steady hand",
+      "authors": [
+        {
+          "name": "Eric Berger",
+          "socials": null
+        }
+      ],
+      "url": "https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GYQYomvakAETlcS.jpeg",
+      "news_site": "Arstechnica",
+      "summary": "Morale at the space agency is absurdly low, sources say.",
+      "published_at": "2025-02-03T23:13:37Z",
+      "updated_at": "2025-02-03T23:20:09.122253Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28967,
+      "title": "Combustor Facilities",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/centers-and-facilities/glenn/combustor-facilities/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/ce-13c-test-stand.png",
+      "news_site": "NASA",
+      "summary": "Sector Combustor Studies (CE-5B-1) Combustion studies are conducted in this two-test position facility specifically in support of the NOx-reduction research for the High Speed Research program and the Advanced Subsonic Technology program. CE-5B-1 is large enough to test sector arrangements of injector elements to include interactions of the elements and single larger elements. The facility […]",
+      "published_at": "2025-02-03T22:48:45Z",
+      "updated_at": "2025-02-03T22:50:09.552813Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28966,
+      "title": "NASA Awards Contract for Airborne Science Flight Services Support",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-contract-for-airborne-science-flight-services-support/",
+      "image_url": "https://blogs.nasa.gov/spacestation/wp-content/uploads/sites/240/2023/01/nasa-logo-web-rgb.png",
+      "news_site": "NASA",
+      "summary": "NASA has awarded Dynamic Aviation Group Inc. of Bridgewater, Virginia, the Commercial Aviation Services contract to support the agency’s Airborne Science Program. The program provides aircraft and technology to further science and advance the use of Earth observing satellite data, making NASA data about our home planet and innovations accessible to all. This is an […]",
+      "published_at": "2025-02-03T21:31:55Z",
+      "updated_at": "2025-02-03T21:40:11.788176Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28965,
+      "title": "NASA Presses Forward Search for VIPER Moon Rover Partner",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/news-release/nasa-presses-forward-search-for-viper-moon-rover-partner/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/02/viper-new-image.jpg",
+      "news_site": "NASA",
+      "summary": "To advance plans of securing a public/private partnership and land and operate NASA’s VIPER (Volatiles Investigating Polar Exploration Rover) mission on the Moon in collaboration with industry the agency announced Monday it is seeking U.S. proposals. As part of the agency’s Artemis campaign, instruments on VIPER will demonstrate U.S. industry’s ability to search for ice […]",
+      "published_at": "2025-02-03T21:22:57Z",
+      "updated_at": "2025-02-03T21:30:13.971624Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28964,
+      "title": "Station Science Top News: Jan. 31, 2025",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/missions/station-science-top-news-jan-31-2025/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/02/iss061e066885.jpg",
+      "news_site": "NASA",
+      "summary": "Seeds survive space Researchers found that plant seeds exposed to space germinated at the same rate as those kept on the ground. This finding shows that plant seeds can remain viable during long-term space travel and plants could be used for food and other uses on future missions. Materials International Space Station Experiment-14 exposed a […]",
+      "published_at": "2025-02-03T21:17:16Z",
+      "updated_at": "2025-02-03T21:20:12.974834Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28962,
+      "title": "Stacking Artemis II",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/image-article/stacking-artemis-ii/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/02/ksc-20250124-ph-fmx01-0003orig.jpg",
+      "news_site": "NASA",
+      "summary": "NASA’s iconic “worm” insignia stands out in this photo taken on Jan. 24, 2025, as engineers and technicians prepared to lift the left center center booster segment for the agency’s SLS (Space Launch System) rocket. The boosters will help support the remaining rocket components and the Orion spacecraft during final assembly of the Artemis II […]",
+      "published_at": "2025-02-03T20:57:49Z",
+      "updated_at": "2025-02-03T21:00:19.309149Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28961,
+      "title": "How Does the Sun Behave? (Grades K-4)",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/learning-resources/how-does-the-sun-behave-grades-k-4/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/nasa-knows-banner-v2.png",
+      "news_site": "NASA",
+      "summary": "This article is for students grades K-4. The Sun is a star. It is the biggest object in our solar system. The Sun is about 93 million miles away from Earth and about 4.5 billion years old. The Sun affects Earth’s weather, seasons, climate, and more. Let’s learn about how the Sun behaves. Why is […]",
+      "published_at": "2025-02-03T20:44:57Z",
+      "updated_at": "2025-02-03T20:50:13.181093Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28960,
+      "title": "Top Pentagon contractors poised for gains as Trump pushes missile shield expansion",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/top-pentagon-contractors-poised-for-gains-as-trump-pushes-missile-shield-expansion/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/240214-D-D0439-0988-scaled.jpeg?fit=1024%2C683&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThe proposed “Iron Dome for America”  system is heavily reliant on space-based sensors and potentially controversial space-based interceptors\nThe post Top Pentagon contractors poised for gains as Trump pushes missile shield expansion appeared first on SpaceNews.",
+      "published_at": "2025-02-03T20:15:08Z",
+      "updated_at": "2025-02-03T20:20:15.921950Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28959,
+      "title": "NASA Ames Stars of the Month: February 2025",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-february-2025/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/02/som-february-title-card.jpg",
+      "news_site": "NASA",
+      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Michael Flynn, Ross Beyer, and Matt Johnson. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond Space Biosciences Star: Michael Flynn Michael Flynn, a senior scientist and engineer […]",
+      "published_at": "2025-02-03T20:11:28Z",
+      "updated_at": "2025-02-03T20:20:14.387639Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28957,
+      "title": "Starlink profit growing rapidly as it faces a moment of promise and peril",
+      "authors": [
+        {
+          "name": "Eric Berger",
+          "socials": null
+        }
+      ],
+      "url": "https://arstechnica.com/space/2025/02/starlink-profit-growing-rapidly-as-it-faces-a-moment-of-promise-and-peril/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/starlink-1536x864-1729015675.jpg",
+      "news_site": "Arstechnica",
+      "summary": "\"He wants to take food off the table of people—hard-working people.\"",
+      "published_at": "2025-02-03T17:43:48Z",
+      "updated_at": "2025-02-03T19:15:39.258817Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28956,
+      "title": "Wyvern unveils free hyperspectral datasets",
+      "authors": [
+        {
+          "name": "Debra Werner",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/wyvern-unveils-free-hyperspectral-datasets/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/rsz_wyvern_odp_priestlake.jpg?fit=879%2C494&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nWyvern is publicly sharing 25 images from its Dragonette hyperspectral satellites. \nThe post Wyvern unveils free hyperspectral datasets appeared first on SpaceNews.",
+      "published_at": "2025-02-03T17:00:00Z",
+      "updated_at": "2025-02-03T17:10:17.654437Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28972,
+      "title": "NASA’s InSight Finds Marsquakes From Meteoroids Go Deeper Than Expected",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/missions/nasas-insight-finds-marsquakes-from-meteoroids-go-deeper-than-expected/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/02/1-pia26518-hirise-views-an-impact-crater-matched-to-insights-seismic-data.jpg",
+      "news_site": "NASA",
+      "summary": "With help from AI, scientists discovered a fresh crater made by an impact that shook material as deep as the Red Planet’s mantle. Meteoroids striking Mars produce seismic signals that can reach deeper into the planet than previously known. That’s the finding of a pair of new papers comparing marsquake data collected by NASA’s InSight […]",
+      "published_at": "2025-02-03T16:38:11Z",
+      "updated_at": "2025-02-04T00:20:12.408338Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28955,
+      "title": "NASA’s InSight Finds Marsquakes From Meteoroids Go Deeper Than Expected",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/missions/insight/nasas-insight-finds-marsquakes-from-meteoroids-go-deeper-than-expected/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/02/1-pia26518-hirise-views-an-impact-crater-matched-to-insights-seismic-data.jpg",
+      "news_site": "NASA",
+      "summary": "With help from AI, scientists discovered a fresh crater made by an impact that shook material as deep as the Red Planet’s mantle. Meteoroids striking Mars produce seismic signals that can reach deeper into the planet than previously known. That’s the finding of a pair of new papers comparing marsquake data collected by NASA’s InSight […]",
+      "published_at": "2025-02-03T16:38:11Z",
+      "updated_at": "2025-02-03T16:50:29.087509Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "3b633f7e-fad9-480e-9011-f38d1bb2f932",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28954,
+      "title": "30 Years Ago: STS-63, First Shuttle and Mir Rendezvous Mission",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/history/30-years-ago-sts-63-first-shuttle-and-mir-rendezvous-mission/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/sts-63-1-crew-patch-sts063-s-001.jpg",
+      "news_site": "NASA",
+      "summary": "The first shuttle mission of 1995, STS-63 included several historic firsts. As part of Phase 1 of the International Space Station program, space shuttle Discovery’s 20th flight conducted the first shuttle rendezvous with the Mir space station, in preparation for future dockings. The six-person crew included Commander James Wetherbee, Pilot Eileen Collins – the first […]",
+      "published_at": "2025-02-03T15:16:04Z",
+      "updated_at": "2025-02-03T16:50:36.921447Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "5d37036b-122c-40fd-ae0b-dc12a881c214",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28963,
+      "title": "Orbex and D-Orbit Ink Two-Launch Agreement",
+      "authors": [
+        {
+          "name": "European Spaceflight",
+          "socials": null
+        }
+      ],
+      "url": "https://europeanspaceflight.com/orbex-and-d-orbit-ink-two-launch-agreement/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/02/Orbex-and-D-Orbit-Ink-Two-Launch-Agreement.jpg",
+      "news_site": "European Spaceflight",
+      "summary": "UK-based rocket builder Orbex announced on 3 February that it has signed a two-launch deal with Italian in-orbit logistics provider D-Orbit. The deal includes capacity aboard two Prime launches over the next three years. Orbex is currently working toward an inaugural flight of its two-stage Prime rocket, scheduled to take place before the end of […]\nThe post Orbex and D-Orbit Ink Two-Launch Agreement appeared first on European Spaceflight.",
+      "published_at": "2025-02-03T14:56:32Z",
+      "updated_at": "2025-02-03T21:00:23.330142Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28951,
+      "title": "Lagniappe for February 2025",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-february-2025/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/stennis-winter-10-e1738342215366.jpg",
+      "news_site": "NASA",
+      "summary": "Explore Lagniappe for February 2025 featuring: Gator Speaks Welcome to February, folks! The shortest month of the year is here, but do not let its number of days fool you. The month is full of energy and is welcomed with great enthusiasm. We have dusted ourselves off from a historic snowfall in January. The Super […]",
+      "published_at": "2025-02-03T14:53:54Z",
+      "updated_at": "2025-02-03T15:00:36.628588Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28952,
+      "title": "NASA Attends FAN EXPO New Orleans",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/image-article/stennis-attends-fan-expo-new-orleans/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/new-orleans-expo-2-e1738259201998.jpg",
+      "news_site": "NASA",
+      "summary": "NASA reached out to inspire members of the Artemis Generation on Jan. 10-12, joining one of the largest comic con producers in the world to host an outreach booth at the 2025 FAN EXPO in New Orleans. Thousands of fans celebrating the best in pop culture such as movies, comics, and video gaming learned about […]",
+      "published_at": "2025-02-03T14:52:23Z",
+      "updated_at": "2025-02-03T15:00:38.133402Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28953,
+      "title": "The Drive for Better Fuels NASA Employee",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/image-article/the-drive-for-better-fuels-tim-stiglets/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/tim-stiglets-e1738252335855.jpg",
+      "news_site": "NASA",
+      "summary": "Two words come to Tim Stiglets’ mind when he thinks about NASA’s Stennis Space Center near Bay St. Louis, Mississippi – growth and opportunity. The Waveland, Mississippi, resident has experienced both in his career at the south Mississippi NASA center. He started as a summer intern onsite with Lockheed Martin in 2002. When The University […]",
+      "published_at": "2025-02-03T14:51:48Z",
+      "updated_at": "2025-02-03T15:00:40.323141Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28949,
+      "title": "Will ESA’s ‘fair contribution’ reinvigorate Europe’s space ambitions? No, it won’t.",
+      "authors": [
+        {
+          "name": "Robert Brüll",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/will-esas-fair-contribution-reinvigorate-europes-space-ambitions-no-it-wont/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/Europe.A2015111.1050.250m-scaled.jpg?fit=1024%2C794&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nAt a Dec. 18, 2024, ESA council briefing, the Director General, Josef Aschbacher, said the agency would strive in 2025 to “simplify’” the long-standing principle of geo-return. According to that […]\nThe post Will ESA’s ‘fair contribution’ reinvigorate Europe’s space ambitions? No, it won’t. appeared first on SpaceNews.",
+      "published_at": "2025-02-03T14:00:00Z",
+      "updated_at": "2025-02-03T14:10:10.988005Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28946,
+      "title": "U.S. Space Force awards Viasat $3.5 million satellite services contract",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/u-s-space-force-awards-viasat-3-5-million-satellite-services-contract/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/02/GHggcGeXQAArHti.jpeg?fit=1024%2C556&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nViasat won its first task order under the Proliferated Low Earth Orbit (PLEO) satellite services contract\nThe post U.S. Space Force awards Viasat $3.5 million satellite services contract appeared first on SpaceNews.",
+      "published_at": "2025-02-03T13:01:00Z",
+      "updated_at": "2025-02-03T13:10:19.266532Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28945,
+      "title": "NASA pauses work of science groups, citing Trump executive orders",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/nasa-pauses-work-of-science-groups-citing-trump-executive-orders/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/bepicolombo.jpg?fit=1024%2C575&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nNASA has directed a set of science committees to pause their work, citing recent Trump administration executive orders, a move that canceled one meeting and put others on hold.\nThe post NASA pauses work of science groups, citing Trump executive orders appeared first on SpaceNews.",
+      "published_at": "2025-02-03T12:41:06Z",
+      "updated_at": "2025-02-03T12:50:17.830325Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28943,
+      "title": "Station Nation: Meet Tandra Gill Spain, Computer Resources Senior Project Manager in the Avionics and Software Office",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/general/station-nation-meet-tandra-gill-spain-computer-resources-senior-project-manager-in-the-avionics-and-software-office/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/tandra-spain-1.jpg",
+      "news_site": "NASA",
+      "summary": "For astronauts aboard the International Space Station, staying connected to loved ones and maintaining a sense of normalcy is critical. That is where Tandra Gill Spain, a computer resources senior project manager in NASA’s Avionics and Software Office, comes in. Spain leads the integration of applications on Apple devices and the hardware integration on the […]",
+      "published_at": "2025-02-03T12:00:00Z",
+      "updated_at": "2025-02-03T12:00:15.395412Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28944,
+      "title": "CubeSpace: Revolutionizing Satellite Control for the SmallSat Market through Latest Investment",
+      "authors": [
+        {
+          "name": "CubeSpace Satellite Systems",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/cubespace-revolutionizing-satellite-control-for-the-smallsat-market-through-latest-investment/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/cubespace-square.png?fit=1024%2C1024&quality=80&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nIn a rapidly evolving space industry defined by mounting competition and compressed timelines, CubeSpace (CS) is transforming satellite control for SmallSats. A global leader in satellite Attitude Determination and Control […]\nThe post CubeSpace: Revolutionizing Satellite Control for the SmallSat Market through Latest Investment appeared first on SpaceNews.",
+      "published_at": "2025-02-03T12:00:00Z",
+      "updated_at": "2025-02-03T12:10:12.148769Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28950,
+      "title": "KA-BOOM",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2025/02/KA-BOOM",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/02/ka-boom/26565843-1-eng-GB/KA-BOOM_card_full.png",
+      "news_site": "ESA",
+      "summary": "From the ESA Blogs.",
+      "published_at": "2025-02-03T09:38:00Z",
+      "updated_at": "2025-02-03T16:51:08.182319Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "3b633f7e-fad9-480e-9011-f38d1bb2f932",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28942,
+      "title": "Here there be radiation dragons",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Here_there_be_radiation_dragons",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2012/07/space_radiation_affects_satellites/11258259-2-eng-GB/Space_radiation_affects_satellites_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "‘Here there be dragons’ – medieval mapmakers would daub such warnings on dangerous or unknown recesses of mariners’ charts. Fast forward to the 21st century and the space surrounding our planet holds ‘dragons’ of its own: fierce radiation belts that surround Earth, Jupiter and other planets, and storms of particles originating from the Sun that travel far into space. A dedicated class of engineers work to safeguard space missions from such dangers.",
+      "published_at": "2025-02-03T08:43:00Z",
+      "updated_at": "2025-02-03T08:50:13.667259Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28947,
+      "title": "Top 10 persistent methane sources",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Top_10_persistent_methane_sources",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/global_atmospheric_methane_concentration_2021_average/26562291-1-eng-GB/Global_atmospheric_methane_concentration_2021_average_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "A list of the top 10 global regions where natural or anthropogenic sources emit methane on a continuous, ‘persistent’ basis was recently published in a scientific journal.",
+      "published_at": "2025-02-03T07:44:00Z",
+      "updated_at": "2025-02-03T13:20:16.774479Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28941,
+      "title": "Japan launches Michibiki 6 navigation satellite with fifth H3 rocket",
+      "authors": [
+        {
+          "name": "Andrew Jones",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/japan-launches-michibiki-6-navigation-satellite-with-fifth-h3-rocket/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/H3-No5-QZS6-2feb2025-JAXA-1.jpg?fit=1024%2C492&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "HELSINKI — Japan’s flagship H3 rocket successfully launched the Michibiki 6 navigation satellite early Sunday, enhancing the country’s regional GPS capabilities. The Mitsubishi Heavy Industries (MHI) H3 rocket lifted off […]\r\nThe post Japan launches Michibiki 6 navigation satellite with fifth H3 rocket appeared first on SpaceNews.",
+      "published_at": "2025-02-02T22:13:09Z",
+      "updated_at": "2025-02-03T10:22:31.880706Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "0680d9c6-8b90-405e-bbe0-167cd48e36bb",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28940,
+      "title": "What’s Happening in Space Policy February 2-8, 2025",
+      "authors": [
+        {
+          "name": "Marcia Smith",
+          "socials": null
+        }
+      ],
+      "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-2-8-2025/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2025/02/IM2-on-moon.avif",
+      "news_site": "SpacePolicyOnline.com",
+      "summary": "Here is SpacePolicyOnline.com’s list of space policy events for the week of February 2-8, 2025 and any insight we can offer about them. The House and Senate are in session […]",
+      "published_at": "2025-02-02T17:19:24Z",
+      "updated_at": "2025-02-02T17:20:11.093290Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28939,
+      "title": "Indian navigation satellite stuck in transfer orbit after propulsion failure",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/indian-navigation-satellite-stuck-in-transfer-orbit-after-propulsion-failure/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/nvs02-encapsulation.jpg?fit=1024%2C917&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "A recently launched Indian navigation satellite is stranded in a transfer orbit after the failure of its onboard propulsion system and could soon renter.\r\nThe post Indian navigation satellite stuck in transfer orbit after propulsion failure appeared first on SpaceNews.",
+      "published_at": "2025-02-02T15:55:11Z",
+      "updated_at": "2025-02-03T10:22:48.522733Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "2d39bb52-5258-4866-9f2b-d84e1b02afd3",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28938,
+      "title": "Industry executives predict “more thoughtful” new wave of space deals",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/industry-executives-predict-more-thoughtful-new-wave-of-space-deals/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/starlab-jan25.jpeg?fit=1024%2C606&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nSpace company executives project a new wave of investment and consolidation that could be a “more thoughtful” version of the previous surge five years ago.\nThe post Industry executives predict “more thoughtful” new wave of space deals appeared first on SpaceNews.",
+      "published_at": "2025-02-02T01:00:31Z",
+      "updated_at": "2025-02-02T01:10:10.259430Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28937,
+      "title": "Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "authors": [
+        {
+          "name": "Will Robinson-Smith",
+          "socials": null
+        }
+      ],
+      "url": "https://spaceflightnow.com/2025/02/02/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/08/20240831-Starlink-8-10-Michael.jpg",
+      "news_site": "Spaceflight Now",
+      "summary": "The Starlink 12-3 mission will be the 230th orbital launch for SpaceX from Space Launch Complex 40 at Cape Canaveral Space Force Station. Liftoff is set for 3:54 a.m. EST (0854 UTC).",
+      "published_at": "2025-02-02T00:08:12Z",
+      "updated_at": "2025-02-03T10:23:12.455970Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "028d5699-11ea-4309-9266-5f9c2372219f",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28936,
+      "title": "Nayuta Space Secures Major Funding To Develop Reusable Launch System",
+      "authors": [
+        {
+          "name": "Zac Aubert",
+          "socials": {
+            "x": "https://x.com/Astro_Aubert",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://tlpnetwork.com/news/asia/nayuta-space-secures-major-funding-to-develops-reusable-launch-system",
+      "image_url": "https://cdn.tlpnetwork.com/articles/2025/1738447050849.webp",
+      "news_site": "The Launch Pad",
+      "summary": "Nayuta Space Secures Major Funding To Develop Reusable Launch System",
+      "published_at": "2025-02-01T21:49:00Z",
+      "updated_at": "2025-02-01T22:10:18.307269Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28935,
+      "title": "Astronomers Call for Global Ban on Space Advertising",
+      "authors": [
+        {
+          "name": "Zac Aubert",
+          "socials": {
+            "x": "https://x.com/Astro_Aubert",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://tlpnetwork.com/news/policy-and-finance/astronomers-call-for-global-ban-on-space-advertising",
+      "image_url": "https://cdn.tlpnetwork.com/articles/2025/1738446335469.jpg",
+      "news_site": "The Launch Pad",
+      "summary": "Astronomers Call for Global Ban on Space Advertising",
+      "published_at": "2025-02-01T21:29:00Z",
+      "updated_at": "2025-02-01T21:50:20.052731Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28934,
+      "title": "JWST Operational Budget Facing Cuts This Fall",
+      "authors": [
+        {
+          "name": "Zac Aubert",
+          "socials": {
+            "x": "https://x.com/Astro_Aubert",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://tlpnetwork.com/news/in-space/jwst-operational-budget-facing-cuts-this-fall",
+      "image_url": "https://cdn.tlpnetwork.com/articles/2025/1738445019473.jpg",
+      "news_site": "The Launch Pad",
+      "summary": "JWST Operational Budget Facing Cuts This Fall",
+      "published_at": "2025-02-01T21:14:00Z",
+      "updated_at": "2025-02-03T10:23:17.774950Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28933,
+      "title": "Boeing and NASA Making “Significant Progress” on Starliner Issues, Though Thruster Problems Persist",
+      "authors": [
+        {
+          "name": "Zac Aubert",
+          "socials": {
+            "x": "https://x.com/Astro_Aubert",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://tlpnetwork.com/news/america/boeing-and-nasa-making-significant-progress-on-starliner-issues",
+      "image_url": "https://cdn.tlpnetwork.com/articles/2025/1738443802347.jpg",
+      "news_site": "The Launch Pad",
+      "summary": "Boeing and NASA Making “Significant Progress” on Starliner Issues, Though Thruster Problems Persist",
+      "published_at": "2025-02-01T20:54:00Z",
+      "updated_at": "2025-02-03T10:23:30.065273Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "968067d1-8c12-4018-9854-b7b7d4bddc6b",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28932,
+      "title": "NASA’s Artemis Program Faces Reassessment Amid Concerns Over Packed Mission Objectives",
+      "authors": [
+        {
+          "name": "Zac Aubert",
+          "socials": {
+            "x": "https://x.com/Astro_Aubert",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/zachary-aubert-43853b22/",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://tlpnetwork.com/news/america/nasa-artemis-program-faces-reassessment-amid-concerns-over-packed-mission-objectives",
+      "image_url": "https://cdn.tlpnetwork.com/articles/2025/1738442987045.webp",
+      "news_site": "The Launch Pad",
+      "summary": "NASA’s Artemis Program Faces Reassessment Amid Concerns Over Packed Mission Objectives",
+      "published_at": "2025-02-01T20:36:00Z",
+      "updated_at": "2025-02-01T21:00:25.027197Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28930,
+      "title": "Thales Alenia Space Wins €367M Contract to Build EnVision Venus Explorer",
+      "authors": [
+        {
+          "name": "European Spaceflight",
+          "socials": null
+        }
+      ],
+      "url": "https://europeanspaceflight.com/thales-alenia-space-wins-e367m-contract-to-build-envision-venus-explorer/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/02/Thales-Alenia-Space-Wins-E367M-Contract-to-Build-EnVision-Venus-Explorer.jpg",
+      "news_site": "European Spaceflight",
+      "summary": "The European Space Agency has awarded Thales Alenia Space a €367 million contract to build the EnVision probe, which will be tasked with exploring Venus. EnVision was selected for development by ESA’s Science Programme Committee in June 2021 as the agency’s fifth M-class mission. This category of ESA exploration missions features a cost cap of […]\r\nThe post Thales Alenia Space Wins €367M Contract to Build EnVision Venus Explorer appeared first on European Spaceflight.",
+      "published_at": "2025-02-01T20:17:49Z",
+      "updated_at": "2025-02-03T10:23:35.839654Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "0ffd7efb-7577-4aab-99da-fd1f6f4606c2",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28931,
+      "title": "Satellite servicing companies face reality check",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/satellite-servicing-companies-face-reality-check/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/GFB1yiaXkAANn9b-scaled.jpeg?fit=1024%2C768&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nExecutives say the industry has to work harder at proving the commercial viability of in-orbit services\nThe post Satellite servicing companies face reality check  appeared first on SpaceNews.",
+      "published_at": "2025-02-01T20:12:04Z",
+      "updated_at": "2025-02-01T20:20:20.921398Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28929,
+      "title": "Safety panel urges NASA to reassess Artemis mission objectives to reduce risk",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/safety-panel-urges-nasa-to-reassess-artemis-mission-objectives-to-reduce-risk/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53125157076_d0af8a0c3b_o.jpg?fit=1024%2C576&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nA safety panel is calling on NASA to reassess to plans for upcoming Artemis missions because the agency is packing too many objectives into each mission.\nThe post Safety panel urges NASA to reassess Artemis mission objectives to reduce risk appeared first on SpaceNews.",
+      "published_at": "2025-02-01T18:12:11Z",
+      "updated_at": "2025-02-01T18:20:14.289035Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28928,
+      "title": "Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California",
+      "authors": [
+        {
+          "name": "Will Robinson-Smith",
+          "socials": null
+        }
+      ],
+      "url": "https://spaceflightnow.com/2025/02/01/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-3/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2024/02/20240214_Starlink_7-14_prelaunch_small.jpg",
+      "news_site": "Spaceflight Now",
+      "summary": "The Starlink 11-4 mission will be the 200th orbital launch from pad 4E at Vandenberg Space Force Base. Liftoff is scheduled for 3:02 p.m. PST (6:02 p.m. EST, 2302 UTC).",
+      "published_at": "2025-02-01T15:05:30Z",
+      "updated_at": "2025-02-03T10:23:44.560035Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "6f18e0ac-ef45-4658-89b1-1cbf48c821ae",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28927,
+      "title": "Apply now for the 2025 ESA Graduate Trainee Programme",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_for_the_2025_ESA_Graduate_Trainee_Programme",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/esa_graduate_trainee_programme_20252/26560691-2-eng-GB/ESA_Graduate_Trainee_Programme_2025_card_full.png",
+      "news_site": "ESA",
+      "summary": "The 2025 ESA Graduate Trainee positions are now open! If you’re passionate about engineering, science, IT or business, this is your chance to turn your dreams into reality.",
+      "published_at": "2025-02-01T13:00:00Z",
+      "updated_at": "2025-02-01T13:20:15.082795Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28926,
+      "title": "Scientists find building blocks of life in OSIRIS-REx samples, discover potentially dangerous asteroid",
+      "authors": [
+        {
+          "name": "Justin Davenport",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasaspaceflight.com/2025/01/bennu-samples-2024y4/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/01/bennu-banner-1920x640-1.jpeg",
+      "news_site": "NASASpaceflight",
+      "summary": "Scientists from NASA’s OSIRIS-REx asteroid sample return mission recently delivered remarkable findings about asteroid 101955…\r\nThe post Scientists find building blocks of life in OSIRIS-REx samples, discover potentially dangerous asteroid appeared first on NASASpaceFlight.com.",
+      "published_at": "2025-01-31T22:48:53Z",
+      "updated_at": "2025-02-01T07:54:01.885070Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "0bcc6850-4c51-4b08-aa19-0b3753351b9b",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": [
+        {
+          "event_id": 1113,
+          "provider": "Launch Library 2"
+        }
+      ]
+    },
+    {
+      "id": 28925,
+      "title": "Former head of Boeing’s Starliner program returns to role",
+      "authors": [
+        {
+          "name": "Will Robinson-Smith",
+          "socials": null
+        }
+      ],
+      "url": "https://spaceflightnow.com/2025/01/31/former-head-of-boeings-starliner-program-returns-to-role/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/01/20250130_Mulholland_pre_OFT.jpg",
+      "news_site": "Spaceflight Now",
+      "summary": "The change in leadership follows the decision made in 2024 by Mark Nappi, the former VP and program manager of CCP, to retire from Boeing in February. ",
+      "published_at": "2025-01-31T22:09:49Z",
+      "updated_at": "2025-01-31T22:10:25.481110Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28924,
+      "title": "NASA to Talk Science, Tech Aboard Next Intuitive Machines Moon Flight",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/news-release/nasa-to-talk-science-tech-aboard-next-intuitive-machines-moon-flight/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/im-2-clean-shot-2-1.jpg",
+      "news_site": "NASA",
+      "summary": "NASA will host a media teleconference at 1 p.m. EST Friday, Feb. 7, to discuss the agency’s science and technology flying aboard Intuitive Machines’ second flight to the Moon. The mission is part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign to establish a long-term lunar presence.  Audio of the call will […]",
+      "published_at": "2025-01-31T21:51:15Z",
+      "updated_at": "2025-02-02T18:51:43.763302Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "fd0fbaac-d079-4027-98b0-bcf25c15a166",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": [
+        {
+          "event_id": 1119,
+          "provider": "Launch Library 2"
+        }
+      ]
+    },
+    {
+      "id": 28923,
+      "title": "China’s DeepSeek AI signals faster path to space autonomy",
+      "authors": [
+        {
+          "name": "Jason Rainbow",
+          "socials": {
+            "x": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://spacenews.com/chinas-deepseek-ai-could-accelerate-space-autonomy/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/AI-Spacecom-scaled.jpg?fit=1024%2C768&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThe emergence of China’s DeepSeek has shaken up the artificial intelligence sector, promising new opportunities for space companies beginning to explore ways to leverage AI in space.\nThe post China’s DeepSeek AI signals faster path to space autonomy appeared first on SpaceNews.",
+      "published_at": "2025-01-31T21:31:59Z",
+      "updated_at": "2025-01-31T21:40:21.250470Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28922,
+      "title": "What’s Up: February 2025 Skywatching Tips from NASA",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/skywatching/2025/february/202502%20stills_skychart_Mars%20and%20Jupiter.png",
+      "news_site": "NASA",
+      "summary": "A Month of Bright Planets Venus blazes at its brightest for the year after sunset, then Mars and Jupiter to rule the night amid the menagerie of bright winter stars. Skywatching Highlights All Month – Planet Visibility: Daily Highlights: February 1 – Venus & Moon: The crescent Moon cozies up to brilliant Venus tonight in […]",
+      "published_at": "2025-01-31T19:00:02Z",
+      "updated_at": "2025-01-31T19:10:09.981902Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28920,
+      "title": "NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/1-pia26495-pv-landslides.jpg",
+      "news_site": "NASA",
+      "summary": "Analysis of data from NASA radar aboard an airplane shows that the decades-old active landslide area on the Palos Verdes Peninsula has expanded. Researchers at NASA’s Jet Propulsion Laboratory in Southern California used data from an airborne radar to measure the movement of the slow-moving landslides on the Palos Verdes Peninsula in Los Angeles County. […]",
+      "published_at": "2025-01-31T18:31:13Z",
+      "updated_at": "2025-01-31T18:40:10.873573Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28921,
+      "title": "The remote seeds of exploration",
+      "authors": [
+        {
+          "name": "David Ariosto",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/the-remote-seeds-of-exploration/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/Venus-NASA.jpg?fit=1024%2C674&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThere may be something about Earth’s remote places that root many of humanity’s greatest achievements in space. John Glenn (the first American to orbit the Earth) and Neil Armstrong (the […]\nThe post The remote seeds of exploration appeared first on SpaceNews.",
+      "published_at": "2025-01-31T18:30:55Z",
+      "updated_at": "2025-01-31T18:40:14.744419Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28919,
+      "title": "NASA Flight Tests Wildland Fire Tech Ahead of Demo",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2024/12/acd24-0180-005.jpg",
+      "news_site": "NASA",
+      "summary": "NASA is collaborating with the wildfire community to provide tools for some of the most challenging aspects of firefighting – particularly aerial nighttime operations.   In the future, agencies could more efficiently use drones, both remotely piloted and fully autonomous, to help fight wildfires. NASA recently tested technologies with teams across the country that will enable […]",
+      "published_at": "2025-01-31T18:26:46Z",
+      "updated_at": "2025-01-31T18:30:09.800260Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28918,
+      "title": "Building an Antenna",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/image-article/building-an-antenna/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/pia26454orig.jpg",
+      "news_site": "NASA",
+      "summary": "A crane lowers the 112-foot-wide (34-meter-wide) steel framework for the Deep Space Station 23 (DSS-23) reflector dish into position on Dec. 18, 2024, at the Deep Space Network’s (DSN) Goldstone Space Communications Complex near Barstow, California. Once online in 2026, DSS-23 will be the fifth of six new beam waveguide antennas to be added to […]",
+      "published_at": "2025-01-31T17:15:11Z",
+      "updated_at": "2025-01-31T17:20:13.815195Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28917,
+      "title": "6 Things to Know About SPHEREx, NASA’s Newest Space Telescope",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/1-pia26539-spherex-spacecraft.jpg",
+      "news_site": "NASA",
+      "summary": "Shaped like a megaphone, the upcoming mission will map the entire sky in infrared light to answer big questions about the universe. Expected to launch no earlier than Thursday, Feb. 27, from Vandenberg Space Force Base in California, NASA’s SPHEREx space observatory will provide astronomers with a big-picture view of the cosmos like none before. […]",
+      "published_at": "2025-01-31T16:56:35Z",
+      "updated_at": "2025-02-01T07:54:16.822660Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "800351fd-0bfb-4473-a07c-f19161976877",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28916,
+      "title": "60 days in bed for science",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2025/01/60_days_in_bed_for_science",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2025/01/60_days_in_bed_for_science/26564737-1-eng-GB/60_days_in_bed_for_science_card_full.png",
+      "news_site": "ESA",
+      "summary": "A group of volunteers is spending two months lying in bed—with their feet up and one shoulder always touching the mattress—even while eating, showering, and using the toilet. But why? This extreme bedrest study is helping scientists understand how space travel affects the human body and how to keep astronauts healthy on long missions.",
+      "published_at": "2025-01-31T15:00:00Z",
+      "updated_at": "2025-01-31T15:00:24.328273Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28915,
+      "title": "Meet the Space Ops Team: Lindsai Bland",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-lindsai-bland/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2023/08/dsn-sunset.jpg",
+      "news_site": "NASA",
+      "summary": "With more than 17 years of experience at NASA, Lindsai Bland has been an integral part of the agency, contributing to multiple Earth observing system missions at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Now, Bland ensures the agency’s communications and navigation resources meet overall needs and requirements as the Mission Operations Interface Lead […]",
+      "published_at": "2025-01-31T14:51:20Z",
+      "updated_at": "2025-01-31T15:00:19.677943Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28914,
+      "title": "Week in images: 27-31 January 2025",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_January_2025",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/earth_from_space_sao_francisco_river_brazil/26561845-1-eng-GB/Earth_from_Space_Sao_Francisco_River_Brazil_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "Week in images: 27-31 January 2025",
+      "published_at": "2025-01-31T14:10:00Z",
+      "updated_at": "2025-01-31T14:10:12.989736Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28912,
+      "title": "Space companies can dock satellites in orbit, but can they navigate the Pentagon?",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/on-national-security-tougher-than-the-tech/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/05/2634895-scaled.jpg?fit=1024%2C558&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nCommercial space companies are revolutionizing the global economy with groundbreaking technologies, from autonomous satellite docking to cutting-edge data services. Yet, despite their innovation prowess, companies face significant challenges navigating the […]\nThe post Space companies can dock satellites in orbit, but can they navigate the Pentagon? appeared first on SpaceNews.",
+      "published_at": "2025-01-31T14:00:00Z",
+      "updated_at": "2025-01-31T14:10:12.333299Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28913,
+      "title": "A call to stargaze with strangers",
+      "authors": [
+        {
+          "name": "Sarah Walker",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/a-call-to-stargaze-with-strangers/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/perseid.jpg?fit=1024%2C576&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nAs an international affairs professional in Washington, DC, I have faced immense grief while helping others navigate recent international crises, from the coronavirus to the Ukraine invasion to the genocide […]\nThe post A call to stargaze with strangers   appeared first on SpaceNews.",
+      "published_at": "2025-01-31T14:00:00Z",
+      "updated_at": "2025-01-31T14:10:12.355739Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28911,
+      "title": "Transforming ESA’s technical heart",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2025/01/Transforming_ESA_s_technical_heart",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/transforming_esa_s_technical_heart/26563611-1-eng-GB/Transforming_ESA_s_technical_heart_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "From the ESA Blogs.",
+      "published_at": "2025-01-31T13:15:00Z",
+      "updated_at": "2025-01-31T13:30:16.566633Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28909,
+      "title": "Rocket Report: SpaceX tosses away a Falcon 9; a Somalian spaceport?",
+      "authors": [
+        {
+          "name": "Eric Berger",
+          "socials": null
+        }
+      ],
+      "url": "https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/spacex-1.jpg",
+      "news_site": "Arstechnica",
+      "summary": "\"It was the perfect partnership and the biggest softball of all the opportunities.\"",
+      "published_at": "2025-01-31T12:00:23Z",
+      "updated_at": "2025-02-01T07:55:18.290406Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "41699701-2ef4-4b0c-ac9d-6757820cde87",
+          "provider": "Launch Library 2"
+        },
+        {
+          "launch_id": "a22c6e2c-17ec-4fe4-ad82-d7cec52011bb",
+          "provider": "Launch Library 2"
+        },
+        {
+          "launch_id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
+          "provider": "Launch Library 2"
+        },
+        {
+          "launch_id": "2d39bb52-5258-4866-9f2b-d84e1b02afd3",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28910,
+      "title": "Hubble Spots a Supernova",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/supernovae/Hubble_SN2022aajn_potw2504a.jpg",
+      "news_site": "NASA",
+      "summary": "The subject of this NASA/ESA Hubble Space Telescope image is a supernova-hosting galaxy located about 600 million light-years away in the constellation Gemini. Hubble captured this image roughly two months after a supernova named SN 2022aajn was discovered. The supernova is visible as a blue dot at the center of the image, brightening the hazy […]",
+      "published_at": "2025-01-31T12:00:00Z",
+      "updated_at": "2025-02-01T07:55:24.795405Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "9d2a03ff-1fb2-4519-bcdb-ba9f84e61d3d",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28908,
+      "title": "Chinese provinces are fueling the country’s commercial space expansion",
+      "authors": [
+        {
+          "name": "Andrew Jones",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/chinese-provinces-are-fueling-the-countrys-commercial-space-expansion/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/Nebula1-VTVL-test-sept2024-DBA-1.jpg?fit=1024%2C573&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nHELSINKI — China’s national space endeavors have frequently grabbed headlines, but a transformation at the local level is playing another role in China’s broader space strategy.  Across the country, local […]\nThe post Chinese provinces are fueling the country’s commercial space expansion appeared first on SpaceNews.",
+      "published_at": "2025-01-31T11:37:58Z",
+      "updated_at": "2025-01-31T11:40:15.351231Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28907,
+      "title": "Earth from Space: São Francisco River, Brazil",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Sao_Francisco_River_Brazil",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/earth_from_space_sao_francisco_river_brazil/26561845-1-eng-GB/Earth_from_Space_Sao_Francisco_River_Brazil_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "From the ESA Blogs.",
+      "published_at": "2025-01-31T09:00:00Z",
+      "updated_at": "2025-01-31T09:30:16.445814Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28906,
+      "title": "Sols 4439-4440: A Lunar New Year on Mars",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://science.nasa.gov/blog/sols-4439-4440-a-lunar-new-year-on-mars/",
+      "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2025/curiosity-rover-updates/january/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04437_opgs_edr_ncam_NLB_791392881EDR_F1122394NCAM00299M_.JPG",
+      "news_site": "NASA",
+      "summary": "Earth planning date: Wednesday, Jan. 29, 2025 We’re planning sols 4439 and 4440 on the first day of the Lunar New Year here on Earth, and I’m the Geology/Mineralogy Science Theme Lead for today. The new year is a time for all kinds of abundance and good luck, and we are certainly lucky to be […]",
+      "published_at": "2025-01-31T08:35:01Z",
+      "updated_at": "2025-01-31T09:24:06.496690Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "df8d4fdb-9add-4ce9-9f0e-aae1c61df212",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28905,
+      "title": "ESA Awards Thales Alenia Space €862M Argonaut Moon Lander Contract",
+      "authors": [
+        {
+          "name": "European Spaceflight",
+          "socials": null
+        }
+      ],
+      "url": "https://europeanspaceflight.com/esa-awards-thales-alenia-space-e862m-argonaut-moon-lander-contract/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/01/ESA-Awards-862-Million-Euros-Argonaut-Moon-Lander-Contract-to-Thales-Alenia-Space.jpg",
+      "news_site": "European Spaceflight",
+      "summary": "The European Space Agency has awarded a €862 million contract to Thales Alenia Space to build the Descent Element of the agency’s Argonaut Moon lander. Designed as a multi-role lunar lander, Argonaut consists of three main elements: the Lunar Descent Element (LDE), the Cargo Platform Element, and the Payload. The LDE is responsible for transporting […]\r\nThe post ESA Awards Thales Alenia Space €862M Argonaut Moon Lander Contract appeared first on European Spaceflight.",
+      "published_at": "2025-01-31T06:00:55Z",
+      "updated_at": "2025-01-31T07:08:10.487977Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "7911261d-1a3a-4252-b00f-9de5b42de73d",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28904,
+      "title": "Safety panel reports progress in Starliner investigation",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/safety-panel-reports-progress-in-starliner-investigation/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/09/cft-undock.jpg?fit=1024%2C567&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nBoeing and NASA are making “significant progress” on addressing issues seen on a test flight of the company’s CST-100 Starliner spacecraft last year, an independent NASA safety panel says\nThe post Safety panel reports progress in Starliner investigation appeared first on SpaceNews.",
+      "published_at": "2025-01-31T04:35:54Z",
+      "updated_at": "2025-01-31T04:40:13.635017Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28903,
+      "title": "AVS wins study contract for ESA astrophysics mission",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/avs-wins-study-contract-for-esa-astrophysics-mission/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/AVS-Next-Building-16-9-cropped.jpg?fit=1024%2C577&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nSpanish company Added Value Solutions (AVS) has won a contract for the initial phases of a ESA science mission.\nThe post AVS wins study contract for ESA astrophysics mission appeared first on SpaceNews.",
+      "published_at": "2025-01-31T04:26:50Z",
+      "updated_at": "2025-01-31T04:30:16.444072Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28902,
+      "title": "Asteroids! Bennu and YR4 Make Headlines",
+      "authors": [
+        {
+          "name": "Marcia Smith",
+          "socials": null
+        }
+      ],
+      "url": "https://spacepolicyonline.com/news/asteroids-bennu-and-yr4-make-headlines/",
+      "image_url": "https://spacepolicyonline.com/wp-content/uploads/2018/12/Bennu-NASA-Goddard-Univ-of-AZ-300x284.jpg",
+      "news_site": "SpacePolicyOnline.com",
+      "summary": "Two separate news stories out of NASA have a common theme — asteroids.  One set of scientists released findings from analysis of samples from the asteroid Bennu returned by the […]",
+      "published_at": "2025-01-31T03:52:33Z",
+      "updated_at": "2025-01-31T07:09:07.894886Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "0bcc6850-4c51-4b08-aa19-0b3753351b9b",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": [
+        {
+          "event_id": 1113,
+          "provider": "Launch Library 2"
+        }
+      ]
+    },
+    {
+      "id": 28901,
+      "title": "SPHEREx’s Concentric Cones",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/image-article/spherexs-concentric-cones/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/pia26542orig.jpg",
+      "news_site": "NASA",
+      "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) observatory rests horizontally in this April 2024 image taken at BAE Systems in Boulder, Colorado. This orientation shows the observatory’s three layers of photon shields – the metallic concentric cones. Over a two-year planned mission, the SPHEREx Observatory will collect […]",
+      "published_at": "2025-01-30T20:36:28Z",
+      "updated_at": "2025-01-31T07:09:16.675587Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "800351fd-0bfb-4473-a07c-f19161976877",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28900,
+      "title": "Clearer career pathways needed to sustain space industry growth",
+      "authors": [
+        {
+          "name": "Jason Rainbow",
+          "socials": {
+            "x": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://spacenews.com/clearer-career-pathways-needed-to-sustain-space-industry-growth/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/Talent-spacecom-scaled.jpg?fit=1024%2C768&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThe commercial space industry should establish standardized career paths to attract the talent needed for its rapid expansion, a panel of professional services specialists said at the SpaceCom conference here.\nThe post Clearer career pathways needed to sustain space industry growth  appeared first on SpaceNews.",
+      "published_at": "2025-01-30T19:37:05Z",
+      "updated_at": "2025-01-30T19:40:14.946562Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28899,
+      "title": "Space Minds with Kam Ghaffarian",
+      "authors": [
+        {
+          "name": "SpaceNews Editor",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/space-minds-with-kam-ghaffarian/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/with-episode-number-and-guest-8.png?fit=1024%2C768&quality=80&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nIn this week's episode our guest is Kam Ghaffarian, Chairman, Axiom Space, Intuitive Machines and other companies. Inspired by the Apollo 11 moon landing, starting in his basement, and finally reaching the moon. This is Kam Ghaffarian's inspirational story.\nThe post Space Minds with Kam Ghaffarian appeared first on SpaceNews.",
+      "published_at": "2025-01-30T16:20:49Z",
+      "updated_at": "2025-01-30T16:30:17.305068Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28898,
+      "title": "Ending the dream",
+      "authors": [
+        {
+          "name": "Gary Church",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/ending-the-dream/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/solar-satellite.jpg?fit=1024%2C797&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nI was 20 years old and a member of the 7th Cavalry near the DMZ in South Korea when the first Space Shuttle was launched in 1981. The launch took […]\nThe post Ending the dream appeared first on SpaceNews.",
+      "published_at": "2025-01-30T14:30:00Z",
+      "updated_at": "2025-01-30T14:30:19.642735Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28897,
+      "title": "Foust Forward | ESA navigates its uncertain future with NASA",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/foust-forward-esa-navigates-its-uncertain-future-with-nasa/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/greenland_oli_2022232_lrg-scaled.jpg?fit=1024%2C608&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nDonald Trump didn’t wait to return to the White House before he started to shake up foreign policy. In the weeks leading up to his second inauguration, Trump proposed reclaiming […]\nThe post Foust Forward | ESA navigates its uncertain future with NASA appeared first on SpaceNews.",
+      "published_at": "2025-01-30T14:00:00Z",
+      "updated_at": "2025-01-30T14:10:29.795342Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28896,
+      "title": "Virgin Galactic and Redwire partner on suborbital research capabilities",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/virgin-galactic-and-redwire-partner-on-suborbital-research-capabilities/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/vgredwire-locker.jpeg?fit=1024%2C686&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nVirgin Galactic is working with Redwire to produce payload racks for experiments flying on its Delta-class suborbital spaceplane in development.\nThe post Virgin Galactic and Redwire partner on suborbital research capabilities appeared first on SpaceNews.",
+      "published_at": "2025-01-30T11:45:27Z",
+      "updated_at": "2025-01-30T11:50:17.120795Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28892,
+      "title": "ESA and European Commission to build quantum-secure space communications network",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_European_Commission_to_build_quantum-secure_space_communications_network",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/esa_and_the_european_commission_sign_euroqci_implementation_agreement/26559765-2-eng-GB/ESA_and_the_European_Commission_sign_EuroQCI_implementation_agreement_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "Today in Brussels, the European Space Agency (ESA) and the European Commission consolidated their cooperation on the European Quantum Communication Infrastructure (EuroQCI), marking the successful conclusion of negotiations and clearing the way for development to begin. EuroQCI is an advanced network that aims to protect everything from personal data to Europe's critical infrastructure, using proven principles of quantum physics.",
+      "published_at": "2025-01-30T09:23:00Z",
+      "updated_at": "2025-01-30T09:00:19.843059Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28893,
+      "title": "Artemis contractors defend current architecture as fastest way to return to the moon",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/artemis-contractors-defend-current-architecture-as-fastest-way-to-return-to-the-moon/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/54279669734_32ac908cde_k.jpg?fit=1024%2C683&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nCompanies involved in the Artemis lunar exploration campaign urged the new administration to retain the current architecture to avoid more delays.\nThe post Artemis contractors defend current architecture as fastest way to return to the moon appeared first on SpaceNews.",
+      "published_at": "2025-01-30T09:09:57Z",
+      "updated_at": "2025-01-30T09:10:17.662634Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28894,
+      "title": "Europe awards $900 million contract for Argonaut lunar lander development",
+      "authors": [
+        {
+          "name": "Jason Rainbow",
+          "socials": {
+            "x": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://spacenews.com/europe-awards-900-million-contract-for-argonaut-lunar-lander-development/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/Argonaut-copyright-Thales-Alenia-Space_E.Briot_.jpg?fit=1024%2C512&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "Thales Alenia Space announced a contract worth nearly $900 million Jan. 30 to develop and deliver the Lunar Descent Element for Argonaut, the European Space Agency’s cargo lander slated for missions to the Moon starting in the 2030s.\r\nThe post Europe awards $900 million contract for Argonaut lunar lander development appeared first on SpaceNews.",
+      "published_at": "2025-01-30T09:00:00Z",
+      "updated_at": "2025-01-30T09:43:55.776871Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "7911261d-1a3a-4252-b00f-9de5b42de73d",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28895,
+      "title": "Using AI for more reliable space missions",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Using_AI_for_more_reliable_space_missions",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2013/07/flying_over_columbus_i_m_the_farthest_away_from_earth/12941722-6-eng-GB/Flying_over_Columbus_I_m_the_farthest_away_from_Earth_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "As we prepare to go deeper into space, the demand for autonomous systems capable of operating independently from ground control and crew interactions is increasing. Artificial Intelligence (AI) is shaping up to be an essential tool for reaching this goal. With support from ESA's Discovery programme, a team of researchers from Airbus explored how AI can collect and analyse data onboard the Columbus module of the International Space Station (ISS) in order to improve its prognosis and fault detection capabilities.",
+      "published_at": "2025-01-30T08:39:00Z",
+      "updated_at": "2025-01-30T10:30:13.486472Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28890,
+      "title": "Arianespace Secures Three Ariane 6 Launch Deals in Two Days",
+      "authors": [
+        {
+          "name": "European Spaceflight",
+          "socials": null
+        }
+      ],
+      "url": "https://europeanspaceflight.com/arianespace-secures-three-ariane-6-launch-deals-in-two-days/",
+      "image_url": "https://europeanspaceflight.com/wp-content/uploads/2025/01/Arianespace-Secures-Three-Ariane-6-Launch-Deals-in-Two-Days.jpg",
+      "news_site": "European Spaceflight",
+      "summary": "During the 17th European Space Conference, held in Brussels on 28 and 29 January, Arianespace was awarded contracts to launch PLATO, Sentinel-1D, and a pair of second-generation Galileo satellites. Arianespace currently has a backlog of 30 Ariane 6 launches, 18 of which are for Amazon’s Kuiper constellation. The company is expected to complete five flights […]\r\nThe post Arianespace Secures Three Ariane 6 Launch Deals in Two Days appeared first on European Spaceflight.",
+      "published_at": "2025-01-30T08:37:05Z",
+      "updated_at": "2025-01-31T07:09:29.734851Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "7afcacb9-32aa-41ee-a000-0c7158f324c2",
+          "provider": "Launch Library 2"
+        },
+        {
+          "launch_id": "526b4a0f-f0c9-4a20-9066-e9fc8c79307b",
+          "provider": "Launch Library 2"
+        },
+        {
+          "launch_id": "a5e056e5-1e07-4479-9352-bd18cd7eecf7",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28891,
+      "title": "Argonaut: a first European lunar lander",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Argonaut_a_first_European_lunar_lander",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/artist_s_view_of_the_argonaut_lunar_lander/26555996-1-eng-GB/Artist_s_view_of_the_Argonaut_lunar_lander_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "The European Space Agency (ESA) has signed a contract with Thales Alenia Space in Italy to lead European aerospace companies in building the Argonaut Lunar Descent Element, ESA’s first lunar lander.",
+      "published_at": "2025-01-30T07:15:00Z",
+      "updated_at": "2025-01-30T09:43:42.980776Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "7911261d-1a3a-4252-b00f-9de5b42de73d",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28889,
+      "title": "iPhone Starlink compatibility sends direct-to-smartphone stocks sliding",
+      "authors": [
+        {
+          "name": "Jason Rainbow",
+          "socials": {
+            "x": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://spacenews.com/iphone-starlink-compatibility-sends-direct-to-smartphone-stocks-sliding/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/03/OS_MTN_2270630913-1.jpg?fit=1024%2C650&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nShares in direct-to-smartphone satellite players tumbled Jan. 29 after Apple enabled iPhones with a T-Mobile cellular plan to join beta tests for SpaceX’s rival service in the United States.\nThe post iPhone Starlink compatibility sends direct-to-smartphone stocks sliding  appeared first on SpaceNews.",
+      "published_at": "2025-01-30T01:39:26Z",
+      "updated_at": "2025-01-30T01:40:14.623252Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28887,
+      "title": "AscendArc emerges from stealth to take on small GEO market",
+      "authors": [
+        {
+          "name": "Jason Rainbow",
+          "socials": {
+            "x": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jasonrainbow",
+            "mastodon": "",
+            "bluesky": ""
+          }
+        }
+      ],
+      "url": "https://spacenews.com/ascendarc-emerges-from-stealth-to-take-on-small-geo-market/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/Team-Photo-4.5-m-scaled.jpg?fit=1024%2C768&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nPortland, Oregon-based AscendArc, founded by a former SpaceX principal engineer, emerged from stealth Jan. 29 after raising $4 million to enter the growing market for small geostationary communications satellites.\nThe post AscendArc emerges from stealth to take on small GEO market appeared first on SpaceNews.",
+      "published_at": "2025-01-30T00:16:48Z",
+      "updated_at": "2025-01-30T00:20:14.329903Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28888,
+      "title": "SpaceRyde founder’s startup offers CAD copilot",
+      "authors": [
+        {
+          "name": "Debra Werner",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/spaceryde-founders-startup-offers-cad-copilot/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/rsz_screen_shot_2025-01-29_at_15752_pm.jpg?fit=879%2C521&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nCalifornia startup Hestus has raised $1.5 million to develop an AI copilot for Computer-Aided Design software.\nThe post SpaceRyde founder’s startup offers CAD copilot appeared first on SpaceNews.",
+      "published_at": "2025-01-30T00:14:37Z",
+      "updated_at": "2025-01-30T00:20:14.352940Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28886,
+      "title": "U.S. Space Force Rapid Capabilities Office selects companies for tech accelerator",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/u-s-space-force-rapid-capabilities-office-selects-companies-for-tech-accelerator/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/10/debcfc507aee9d88df2d615fb8fe76684ffca228-1920x1080.png-scaled-e1738195004610.webp?fit=1024%2C478&quality=80&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nThe Space RCO tapped 10 companies for its inaugural Prime Fusion Pilot Accelerator\nThe post U.S. Space Force Rapid Capabilities Office selects companies for tech accelerator appeared first on SpaceNews.",
+      "published_at": "2025-01-29T23:59:57Z",
+      "updated_at": "2025-01-30T00:00:16.561400Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28885,
+      "title": "SpaceX veterans’ hypersonic weapons startup secures $100 million",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/spacex-veterans-hypersonic-weapons-startup-secures-100-million/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/scene00247-scaled.jpg?fit=1024%2C576&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nCalifornia-based Castelion is seeking to disrupt the market with fast-paced manufacturing and lower costs\nThe post SpaceX veterans’ hypersonic weapons startup secures $100 million appeared first on SpaceNews.",
+      "published_at": "2025-01-29T21:58:14Z",
+      "updated_at": "2025-01-29T22:00:17.962667Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28884,
+      "title": "The long-planned return of two astronauts from space is now a political issue",
+      "authors": [
+        {
+          "name": "Eric Berger",
+          "socials": null
+        }
+      ],
+      "url": "https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-2156180680.jpg",
+      "news_site": "Arstechnica",
+      "summary": "This is all pretty bonkers for a lot of reasons.",
+      "published_at": "2025-01-29T21:29:35Z",
+      "updated_at": "2025-01-30T08:07:04.540592Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "968067d1-8c12-4018-9854-b7b7d4bddc6b",
+          "provider": "Launch Library 2"
+        },
+        {
+          "launch_id": "0102940a-4a60-4686-b34d-ced3fed6c595",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28883,
+      "title": "NASA Invites Media to Discuss PUNCH Mission to Study Solar Wind",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-punch-mission-to-study-solar-wind/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/punch-illustration.png",
+      "news_site": "NASA",
+      "summary": "NASA will hold a media teleconference at 2 p.m. EST on Tuesday, Feb. 4, to share information about the agency’s upcoming PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, which is targeted to launch no earlier than Thursday, Feb. 27. The agency’s PUNCH mission is a constellation of four small satellites. When they arrive […]",
+      "published_at": "2025-01-29T21:00:29Z",
+      "updated_at": "2025-01-30T08:07:24.973989Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "800351fd-0bfb-4473-a07c-f19161976877",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28882,
+      "title": "NASA, Partners to Welcome Fourth Axiom Space Mission to Space Station",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/axiom-space-mission-4-crew-image.png",
+      "news_site": "NASA",
+      "summary": "NASA and its international partners have approved the crew for Axiom Space’s fourth private astronaut mission to the International Space Station, launching from the agency’s Kennedy Space Center in Florida no earlier than spring 2025. Peggy Whitson, former NASA astronaut and director of human spaceflight at Axiom Space, will command the commercial mission, while ISRO […]",
+      "published_at": "2025-01-29T20:09:34Z",
+      "updated_at": "2025-01-30T08:10:42.080587Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "0805af04-c2ea-4750-9eb4-f24f89eeb5d6",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28881,
+      "title": "NASA rules out immediate Crew-9 return, saying astronauts will come back “as soon as practical”",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/nasa-rules-out-immediate-crew-9-return-saying-astronauts-will-come-back-as-soon-as-practical/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/wilmore-williams.jpeg?fit=1024%2C683&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "NASA appears to be retaining existing plans to return astronauts from the International Space Station after calls to bring them back “as soon as possible.”\r\nThe post NASA rules out immediate Crew-9 return, saying astronauts will come back “as soon as practical” appeared first on SpaceNews.",
+      "published_at": "2025-01-29T19:58:34Z",
+      "updated_at": "2025-01-30T08:07:07.405145Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "968067d1-8c12-4018-9854-b7b7d4bddc6b",
+          "provider": "Launch Library 2"
+        },
+        {
+          "launch_id": "0102940a-4a60-4686-b34d-ced3fed6c595",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28880,
+      "title": "Following Flight 7 SpaceX line up future Starships",
+      "authors": [
+        {
+          "name": "Ryan Weber",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasaspaceflight.com/2025/01/following-flight-7-starship-flight-8/",
+      "image_url": "https://www.nasaspaceflight.com/wp-content/uploads/2025/01/Booster-14-on-the-Pad-After-launch-scaled.jpg",
+      "news_site": "NASASpaceflight",
+      "summary": "SpaceX continues to press forward with preparations for Flight 8 of Starship, ranging from vehicle…\r\nThe post Following Flight 7 SpaceX line up future Starships appeared first on NASASpaceFlight.com.",
+      "published_at": "2025-01-29T19:30:18Z",
+      "updated_at": "2025-01-30T08:12:10.979009Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "c5566f6e-606e-4250-b8f4-477c5d82c798",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28879,
+      "title": "6 NASA Experiments on Materials, Benefitting Space and Earth",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/6-nasa-experiments-on-materials-benefitting-space-and-earth/",
+      "image_url": "https://images-assets.nasa.gov/image/0000562/0000562~large.jpg",
+      "news_site": "NASA",
+      "summary": "Did you know that NASA conducts ground-breaking research in space on materials like metals, foams, and crystals? This research could lead to next-generation technology that both enables deep-space exploration and benefits humanity.   Here are six studies scientists have conducted on the International Space Station that could have profound implications for future space travel and also […]",
+      "published_at": "2025-01-29T18:42:14Z",
+      "updated_at": "2025-01-29T19:10:12.126858Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28876,
+      "title": "Geyser Season on Mars",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/image-article/geyser-season-on-mars/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/pia22881orig.jpg",
+      "news_site": "NASA",
+      "summary": "This Oct. 29, 2018, image from the HiRISE camera on NASA’s Mars Reconnaissance Orbiter captures geysers of gas and dust that occur in springtime in the South Polar region of Mars. As the Sun rises higher in the sky, the thick coating of carbon dioxide ice that accumulated over the winter begins to warm and […]",
+      "published_at": "2025-01-29T17:59:53Z",
+      "updated_at": "2025-01-29T18:00:17.683480Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28873,
+      "title": "NASA’s Asteroid Bennu Sample Reveals Mix of Life’s Ingredients",
+      "authors": [
+        {
+          "name": "NASA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/",
+      "image_url": "https://www.nasa.gov/wp-content/uploads/2025/01/jason2large.jpg",
+      "news_site": "NASA",
+      "summary": "Studies of rock and dust from asteroid Bennu delivered to Earth by NASA’s OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification and Security–Regolith Explorer) spacecraft have revealed molecules that, on our planet, are key to life, as well as a history of saltwater that could have served as the “broth” for these compounds to interact and combine. […]",
+      "published_at": "2025-01-29T16:19:55Z",
+      "updated_at": "2025-01-30T08:12:48.597638Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "0bcc6850-4c51-4b08-aa19-0b3753351b9b",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": [
+        {
+          "event_id": 1113,
+          "provider": "Launch Library 2"
+        }
+      ]
+    },
+    {
+      "id": 28872,
+      "title": "Live coverage: SpaceX to launch SpainSat New Generation 1 satellite on Falcon 9 rocket from the Kennedy Space Center",
+      "authors": [
+        {
+          "name": "Will Robinson-Smith",
+          "socials": null
+        }
+      ],
+      "url": "https://spaceflightnow.com/2025/01/29/live-coverage-spacex-to-launch-spainsat-new-generation-1-satellite-on-falcon-9-rocket-from-the-kennedy-space-center/",
+      "image_url": "http://spaceflightnow.com/wp-content/uploads/2025/01/20250129_SpainSat_NG-1_rendering_small.jpeg",
+      "news_site": "Spaceflight Now",
+      "summary": "The SNG 1 satellite is designed to provide protected communications capabilities to Spain and its allies during its 15-year operating life. Liftoff from pad 39A is set for 8:34 p.m. EST (0134 UTC), the opening of a two-hour window.",
+      "published_at": "2025-01-29T16:00:42Z",
+      "updated_at": "2025-01-29T16:16:42.389385Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "a22c6e2c-17ec-4fe4-ad82-d7cec52011bb",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28871,
+      "title": "ESA actively monitoring near-Earth asteroid 2024 YR4",
+      "authors": [
+        {
+          "name": "ESA",
+          "socials": null
+        }
+      ],
+      "url": "https://www.esa.int/Space_Safety/Planetary_Defence/ESA_actively_monitoring_near-Earth_asteroid_2024_YR4",
+      "image_url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2025/01/asteroid_-_artist_s_impression/26557830-1-eng-GB/Asteroid_-_artist_s_impression_card_full.jpg",
+      "news_site": "ESA",
+      "summary": "The European Space Agency (ESA) Planetary Defence Office is closely monitoring the recently discovered asteroid 2024 YR4, which has a very small chance of impacting Earth in 2032.",
+      "published_at": "2025-01-29T15:45:00Z",
+      "updated_at": "2025-01-29T16:00:22.959269Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28870,
+      "title": "AstroForge announces asteroid target for upcoming mission",
+      "authors": [
+        {
+          "name": "Jeff Foust",
+          "socials": {
+            "x": "https://x.com/jeff_foust",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": "https://www.linkedin.com/in/jefffoust",
+            "mastodon": "https://mastodon.social/@jfoust",
+            "bluesky": "https://bsky.app/profile/jfoust.bsky.social"
+          }
+        }
+      ],
+      "url": "https://spacenews.com/astroforge-announces-asteroid-target-for-upcoming-mission/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/08/astroforge-odin.jpg?fit=1024%2C768&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "Space mining company AstroForge has revealed the destination of its next asteroid prospecting mission and has signed a launch contract with Stoke Space.\r\nThe post AstroForge announces asteroid target for upcoming mission appeared first on SpaceNews.",
+      "published_at": "2025-01-29T14:48:27Z",
+      "updated_at": "2025-01-29T16:17:02.589391Z",
+      "featured": false,
+      "launches": [
+        {
+          "launch_id": "fd0fbaac-d079-4027-98b0-bcf25c15a166",
+          "provider": "Launch Library 2"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": 28869,
+      "title": "Satellite backlog emerges as key constraint at the nation’s busiest spaceport",
+      "authors": [
+        {
+          "name": "Sandra Erwin",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/satellite-backlog-emerges-as-key-constraint-at-the-nations-busiest-spaceport/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2024/04/GGV4CW2aMAA6tj--scaled.jpeg?fit=1024%2C683&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nSpace Force official warns there is not enough room to prep satellites as commercial and government missions ramp up\nThe post Satellite backlog emerges as key constraint at the nation’s busiest spaceport appeared first on SpaceNews.",
+      "published_at": "2025-01-29T14:19:25Z",
+      "updated_at": "2025-01-29T14:20:15.702484Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28866,
+      "title": "York unveils M-Class satellite for 1,000-kilogram payloads",
+      "authors": [
+        {
+          "name": "Debra Werner",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/york-unveils-m-class-satellite-for-1000-kilogram-payloads/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/rsz_studio_0001.jpg?fit=879%2C572&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nYork Space Systems new M-Class platform is designed for payloads as large as 1,000 kilograms.\nThe post York unveils M-Class satellite for 1,000-kilogram payloads appeared first on SpaceNews.",
+      "published_at": "2025-01-29T14:00:00Z",
+      "updated_at": "2025-01-29T14:00:15.379261Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    },
+    {
+      "id": 28867,
+      "title": "Planet announces $230 million contract from Asia-Pacific customer",
+      "authors": [
+        {
+          "name": "Debra Werner",
+          "socials": null
+        }
+      ],
+      "url": "https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/",
+      "image_url": "https://i0.wp.com/spacenews.com/wp-content/uploads/2023/08/Planet_Pelican_rendering_1_1_1.jpeg?fit=1000%2C562&quality=89&ssl=1",
+      "news_site": "SpaceNews",
+      "summary": "\nPlanet's largest contract to date is a $230 million deal with a commercial customers in the Asia-Pacific region.\nThe post Planet announces $230 million contract from Asia-Pacific customer appeared first on SpaceNews.",
+      "published_at": "2025-01-29T14:00:00Z",
+      "updated_at": "2025-01-29T14:00:15.392590Z",
+      "featured": false,
+      "launches": [],
+      "events": []
+    }
+  ]
+}
