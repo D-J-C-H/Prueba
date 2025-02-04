@@ -52,7 +52,11 @@ def classify_article(title):
 
 # Análisis de tendencias
 def plot_trends(df):
-    df["published_at"] = pd.to_datetime(df["published_at"])
+    
+    #df["published_at"] = pd.to_datetime(df["published_at"])
+    df["published_at"] = pd.to_datetime(df["published_at"], format="%Y-%m-%dT%H:%M:%SZ", errors="coerce").dt.tz_localize(None)
+
+
     df["month"] = df["published_at"].dt.to_period("M")
     trends = df.groupby(["month", "category"]).size().unstack().fillna(0)
     trends.plot(kind="line", figsize=(10,5))

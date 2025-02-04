@@ -11,8 +11,6 @@ df = pd.read_csv("processed_news.csv")
 
 import ast
 
-# Asegurar que la columna 'authors' es texto JSON válido
-df["authors"] = df["authors"].apply(lambda x: json.dumps(x) if isinstance(x, (list, dict)) else "[]")
 
 df["keywords"] = df["keywords"].apply(lambda x: ", ".join(x) if isinstance(x, list) else "")
 
